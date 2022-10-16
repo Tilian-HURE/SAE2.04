@@ -1,0 +1,3 @@
+= SAE 2.04 - Exploitation d'une base de données
+
+Exploitation d'une base de données existante dans le but de l'améliorer et l'optimiser en passant par une partie conceptuelle et une implémentation en SQL. Réalisation d'un tableau de bord en fonction d'indicateurs choisis relevés en utilisant Python, et réalisation d'une documentation technique avec Jupyterhub.
